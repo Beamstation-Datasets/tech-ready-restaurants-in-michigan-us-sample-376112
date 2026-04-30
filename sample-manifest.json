@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cf3fa142-1372-4242-8b72-a66d8259bee0",
+  "export_job_id": "667f7b1d-b6b3-465c-8e3e-36e31b2778c2",
   "id_short": 376112,
-  "published_at": "2026-04-22T19:38:43Z",
+  "published_at": "2026-04-30T07:21:20Z",
   "repo_name": "tech-ready-restaurants-in-michigan-us-sample-376112",
   "sample_asset_name": "beamstation_376112_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/376112/beamstation_376112_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "9d745b0089361f77758dcdaffb113e4033446d51cc4ef5f3ec77cd3913334f28",
-  "sample_size_bytes": 27629,
-  "total_records": 39
+  "sample_records": 21,
+  "sample_sha256": "4dc125e3f17af1165ec89851c8493125b547453d588f4e69a59fe4ea30a4dbeb",
+  "sample_size_bytes": 92992,
+  "total_records": 214
 }
